@@ -1,0 +1,46 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Applications/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/hanseulcho/Documents/16:17/OOP/miniproj/stockmarket
+-d
+/Users/hanseulcho/Documents/16:17/OOP/miniproj/stockmarket/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/hanseulcho/Documents/16:17/OOP/miniproj/stockmarket/MKS.java
+<---- end of javadoc command ---->
+Loading source file /Users/hanseulcho/Documents/16:17/OOP/miniproj/stockmarket/MKS.java...
+Constructing Javadoc information...
+/Users/hanseulcho/Documents/16:17/OOP/miniproj/stockmarket/MKS.java:3: error: cannot find symbol
+public class MKS extends Stock{
+                         ^
+  symbol: class Stock
+Standard Doclet version 1.8.0_66
+Building tree for all the packages and classes...
+Generating /Users/hanseulcho/Documents/16:17/OOP/miniproj/stockmarket/doc/MKS.html...
+Generating /Users/hanseulcho/Documents/16:17/OOP/miniproj/stockmarket/doc/package-frame.html...
+Generating /Users/hanseulcho/Documents/16:17/OOP/miniproj/stockmarket/doc/package-summary.html...
+Generating /Users/hanseulcho/Documents/16:17/OOP/miniproj/stockmarket/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/hanseulcho/Documents/16:17/OOP/miniproj/stockmarket/doc/allclasses-frame.html...
+Generating /Users/hanseulcho/Documents/16:17/OOP/miniproj/stockmarket/doc/allclasses-noframe.html...
+Generating /Users/hanseulcho/Documents/16:17/OOP/miniproj/stockmarket/doc/index.html...
+Generating /Users/hanseulcho/Documents/16:17/OOP/miniproj/stockmarket/doc/stylesheet.css...
+1 warning

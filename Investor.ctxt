@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=balance\ accountNum
+comment0.target=Investor(double,\ int)
+comment1.params=
+comment1.target=double\ getBalance()
+comment10.params=quantity\ price
+comment10.target=void\ sellMKS(int,\ double)
+comment11.params=quantity\ price
+comment11.target=void\ buyMKS(int,\ double)
+comment2.params=b
+comment2.target=void\ setBalance(double)
+comment3.params=
+comment3.target=int\ getaccountNum()
+comment4.params=quantity\ price
+comment4.target=void\ sellApple(int,\ double)
+comment5.params=quantity\ price
+comment5.target=void\ buyApple(int,\ double)
+comment6.params=quantity\ price
+comment6.target=void\ buySamsung(int,\ double)
+comment7.params=quantity\ price
+comment7.target=void\ sellSamsung(int,\ double)
+comment8.params=quantity\ price
+comment8.target=void\ sellGoogle(int,\ double)
+comment9.params=quantity\ price
+comment9.target=void\ buyGoogle(int,\ double)
+numComments=12
